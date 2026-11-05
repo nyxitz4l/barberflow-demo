@@ -218,17 +218,6 @@ O BarberFlow foi desenvolvido como projeto de portfólio para explorar e demonst
 
 ---
 
-## 👨‍💻 Desenvolvedor
-
-**Kayky Santinelli**
-
-Desenvolvimento de software | Full Stack | Automação | Cibersegurança
-
-- GitHub: [@nyxitz4l](https://github.com/nyxitz4l)
-- Portfólio: Em desenvolvimento
-
----
-
 ## 📄 Licença
 
 Este projeto está disponível para fins demonstrativos e de portfólio.
